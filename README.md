@@ -31,7 +31,7 @@
 
 
 **Flutter Cross-Platform:**
-王壹(Yi), Fan
+* 王壹(Yi), Fan
 
 **Xamarin Forms:**
 * Jiantao Li(Lee)
