@@ -5,7 +5,7 @@
 
 **Roles**
 **Project Manager**
-*Jie
+* Jie
 
 **Project Schedule:**
 *Jie
