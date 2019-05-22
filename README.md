@@ -8,14 +8,14 @@
 * Jie
 
 **Project Schedule:**
-*Jie
+* Jie
 
 **Solution Architect:**
 
 **UI Designer/Icon designer:**
 
 **UI-UX:**
-*Nathan
+* Nathan
 
 **Native iOS:**
 
@@ -24,18 +24,18 @@
 **Flutter Cross-Platform:**
 
 **Xamarin Forms:**
-*Jiantao Li(Lee)
+* Jiantao Li(Lee)
 
 **AWS Developer:**
-*Jiantao Li(Lee)
-*大头
+* Jiantao Li(Lee)
+* 大头
 
 **QA:**
 
 **Release Management:**
 
 **#Versions:**
-*V0.1
+* V0.1
 First version of release
 
 **Functions:**
