@@ -10,49 +10,50 @@
 * Jie
 
 
-**Project Schedule:**
+**Project Schedule**
 * Jie
 
-
-**Solution Architect:**
-
-
-**UI Designer/Icon designer:**
+**Meeting Minutes**
+* Michelle
+**Solution Architect**
 
 
-**UI-UX:**
+**UI Designer/Icon designer**
+
+
+**UI-UX**
 * Nathan
 
 
-**Native iOS:**
+**Native iOS**
 
 
-**Native Android:**
+**Native Android**
 
 
-**Flutter Cross-Platform:**
+**Flutter Cross-Platform**
 * 王壹(Yi), Fan
 
-**Xamarin Forms:**
+**Xamarin Forms**
 * Jiantao Li(Lee)
 
 
-**AWS Developer:**
+**AWS Developer**
 * Jiantao Li(Lee)
 * 大头
 
 
-**QA:**
+**QA**
+* Ray
+
+**Release Management**
 
 
-**Release Management:**
-
-
-**#Versions:**
+**#Versions**
 * V0.1
 First version of release
 
 
-**Functions:**
+**Functions**
 - Signin & Singup
 - Main Page: Click button to increase count， count stored in AWS DynamoDB
